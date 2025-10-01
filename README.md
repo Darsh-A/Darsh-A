@@ -3,6 +3,9 @@
 ## Hemlo :3
 Welcome to my profile of random things i work on that pique my interest, have fun looking around ^^
 
+
+[![My Git stats](https://github-readme-stats.vercel.app/api?username=Darsh-A&show_icons=true&theme=rose_pine&hide=contribs)](https://github.com/Darsh-A)
+
 ### 🔬 Scientific Projects
 - [Continuum Supression for Belle2](https://github.com/Darsh-A/HCP_Belle_Cllassification)
 - [Prong detection based on U-Net for 2D Bubble Chamber Images](https://github.com/Darsh-A/BubbleChamber_ProngDetection)
@@ -31,4 +34,3 @@ Welcome to my profile of random things i work on that pique my interest, have fu
 - [My Setup :3](https://github.com/Darsh-A/Win-Rice)
 - [Rosepine Discord Official](https://github.com/Darsh-A/discord)
 
-[![My Git stats](https://github-readme-stats.vercel.app/api?username=Darsh-A&show_icons=true&theme=rose_pine&hide=contribs)](https://github.com/Darsh-A)
