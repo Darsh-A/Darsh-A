@@ -1,5 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/Darsh-A/Darsh-A/refs/heads/main/e0e01af1b1f16f93aab6e1690e4960c4.jpg)](https://github.com/Darsh-A)
-
+<!-- [![MasterHead](https://raw.githubusercontent.com/Darsh-A/Darsh-A/refs/heads/main/e0e01af1b1f16f93aab6e1690e4960c4.jpg)](https://github.com/Darsh-A) -->
 ## Hemlo :3
 Welcome to my profile of random things i work on that pique my interest, have fun looking around ^^
 
