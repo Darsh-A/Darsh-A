@@ -1,6 +1,6 @@
 ## Hemlo :3
 
-[![My Git stats](https://github-readme-stats.vercel.app/api?username=Darsh-A)](https://github.com/Darsh-A/github-readme-stats)
+[![My Git stats](https://github-readme-stats.vercel.app/api?username=Darsh-A)](https://github.com/Darsh-A/github-readme-stats&show_icons=true&theme=rose_pine&hide=contribs)
 <!--
 **Darsh-A/Darsh-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
