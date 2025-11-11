@@ -26,6 +26,9 @@ Welcome to my profile of random things i work on that pique my interest, have fu
 - [Quick Search](https://github.com/Darsh-A/Quick-Search-Zen-Browser)
 - [Zbar Command Palette](https://github.com/Darsh-A/ZBar-Zen)
 
+#### Raycast
+- [Youtube Music](https://github.com/Darsh-A/YT-Music)
+
 #### 📝 Obsidian
 - [Git Collab](https://github.com/Darsh-A/obsidian-Git-Collab)
 
