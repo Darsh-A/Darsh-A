@@ -2,8 +2,9 @@
 ## Hemlo :3
 Welcome to my profile of random things i work on that pique my interest, have fun looking around ^^
 
-
-[![My Git stats](https://github-readme-stats.vercel.app/api?username=Darsh-A&show_icons=true&theme=rose_pine&hide=contribs)](https://github.com/Darsh-A)
+<a href="https://github.com/Darsh-A">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Darsh-A&show_icons=true&theme=rose_pine&hide=contribs" alt="My Git stats" />
+</a>
 
 ### 🔬 Scientific Projects
 - [Continuum Supression for Belle2](https://github.com/Darsh-A/HCP_Belle_Cllassification)
